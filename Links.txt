@@ -4,6 +4,8 @@ https://github.com/MrDanber/RaspberrypiCar/upload/master
 
 Anleitung:
 
+      Androidauto:
+      https://www.instructables.com/id/Android-Auto-on-Raspberry-Pi/
 
 Bauteile:
 
