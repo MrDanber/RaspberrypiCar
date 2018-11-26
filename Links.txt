@@ -4,8 +4,11 @@ https://github.com/MrDanber/RaspberrypiCar/upload/master
 
 Anleitung:
 
-      Androidauto:
-      https://www.instructables.com/id/Android-Auto-on-Raspberry-Pi/
+	Screen:
+	https://www.waveshare.com/wiki/3.5inch_HDMI_LCD#Driver
+
+	Androidauto:
+	https://www.instructables.com/id/Android-Auto-on-Raspberry-Pi/
 
 Bauteile:
 
