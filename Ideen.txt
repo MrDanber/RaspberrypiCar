@@ -1,2 +1,25 @@
 Raspberrypi Auto 
+
 Ideen
+- 7 Zoll Touchscreen
+- Raspberry Pie
+- Bluetooth
+- Hotspot/wifi
+- USB
+- freisprechanlage
+
+Multimedia
+- Musik
+- Video
+- youtube
+- netflix
+- spotify
+- Navi (Google maps)
+
+
+Sensoren
+- Temperatur(innen/ aussen)
+- gyrosensor
+- beschleunigungssensor
+- öldruck
+- öl-/ wasser- temp
