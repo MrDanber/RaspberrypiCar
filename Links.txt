@@ -9,6 +9,10 @@ Anleitung:
 
 	Androidauto:
 	https://www.instructables.com/id/Android-Auto-on-Raspberry-Pi/
+	
+	Openauto:
+	https://www.youtube.com/watch?v=9sTOMI1qTiA
+	https://github.com/f1xpl/openauto
 
 Bauteile:
 
@@ -20,6 +24,9 @@ Bauteile:
 	
 	Raspberry Pi 3
 	https://www.amazon.de/Raspberry-1373331-Pi-Modell-Mainboard/dp/B07BDR5PDW/ref=pd_bxgy_147_img_3?_encoding=UTF8&			pd_rd_i=B07BDR5PDW&pd_rd_r=965bb442-01ed-11e9-a5a1-754d70ada523&pd_rd_w=nXl27&pd_rd_wg=STaSi&pf_rd_p=c63cca93-7a15-40dd-	b68a-47167d2b2080&pf_rd_r=KKTDQJHNX8286Q2CR8WP&psc=1&refRID=KKTDQJHNX8286Q2CR8WP
+	
+	Spannungsrichter/zündung:
+	https://bluewavestudio.io/index.php/bluewave-shop/power-supply/bws-car-ps-v1-usb-detail
 
 
 Diverse:
