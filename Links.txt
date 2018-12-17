@@ -5,12 +5,21 @@ https://github.com/MrDanber/RaspberrypiCar/upload/master
 Anleitung:
 
 	Screen:
-	https://www.waveshare.com/wiki/3.5inch_HDMI_LCD#Driver
+	https://thepihut.com/blogs/raspberry-pi-tutorials/45295044-raspberry-pi-7-touch-screen-assembly-guide
 
 	Androidauto:
 	https://www.instructables.com/id/Android-Auto-on-Raspberry-Pi/
 
 Bauteile:
+
+	7" Display
+	https://www.amazon.de/Raspberry-Pi-7-Inch-Screen-Display/dp/B014WKCFR4/ref=sr_1_4?ie=UTF8&qid=1545045489&sr=8-4&		keywords=raspberry+pi+display+7+zoll
+	
+	Case
+	https://www.amazon.de/OneNineDesign-FBA_102035-Raspberry-Pi-LCD-Touchscreen-H%C3%BClle/dp/B01GQFUWIC				/ref=pd_sim_147_1?_encoding=UTF8&pd_rd_i=B01GQFUWIC&pd_rd_r=75e8d1ab-01ed-11e9-92ad-3db0e782bcc4&pd_rd_w=NvShB&			pd_rd_wg=sVtdP&pf_rd_p=3371dd0f-762d-4d8e-8f21-43659c1afaac&pf_rd_r=EZHBZBE86EPW7C3XKFV0&psc=1&refRID=EZHBZBE86EPW7C3XKFV0
+	
+	Raspberry Pi 3
+	https://www.amazon.de/Raspberry-1373331-Pi-Modell-Mainboard/dp/B07BDR5PDW/ref=pd_bxgy_147_img_3?_encoding=UTF8&			pd_rd_i=B07BDR5PDW&pd_rd_r=965bb442-01ed-11e9-a5a1-754d70ada523&pd_rd_w=nXl27&pd_rd_wg=STaSi&pf_rd_p=c63cca93-7a15-40dd-	b68a-47167d2b2080&pf_rd_r=KKTDQJHNX8286Q2CR8WP&psc=1&refRID=KKTDQJHNX8286Q2CR8WP
 
 
 Diverse:
